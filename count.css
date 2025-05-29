@@ -1,0 +1,22 @@
+#angka {
+  display: block;
+  font-size: 50px;
+  text-align: center;
+  font-weight: bold;
+}
+
+.box {
+  text-align: center;
+}
+
+button {
+  width: 80px;
+  height: 40px;
+  background-color: #8dd0f6;
+  color: white;
+  font-weight: bold;
+}
+
+button:hover {
+  background-color: #0007d2;
+}
